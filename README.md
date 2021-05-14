@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marius "@2zip" S.
 - 👀 I’m interested in Web Development and even beyond 
-- 🌱 I’m currently learning HTML & CSS & JS
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: "Marius ”2zip” S.#3342" on discord / alexwtfmarius@gmail.com
 
 <!---
