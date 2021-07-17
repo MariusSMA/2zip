@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Marius "@2zip" S.
-- 👀 I’m interested in Web Development and even beyond 
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: "Marius ”2zip” S.#3342" on discord / alexwtfmarius@gmail.com
+- 👀 I’m interested in Web Development & even beyond 🚀 
+- 🌱 I’m currently learning and improving HTML, CSS and JS
+- 📫 How to reach me: 
+  • https://linktr.ee/mariusSA
+  • Discord: Marius S.#3342
+  • E-mail: alexwtfmarius@gmail.com
 
 <!---
 2zip/2zip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
