@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marius Simina.
+- 👋 Hi, I’m Marius
 - 👀 I’m interested in Web Development & even beyond 🚀 
 - 🌱 I’m currently learning and improving HTML, CSS and JS
 - 📫 How to reach me: 
