@@ -4,7 +4,6 @@
 - 📫 How to reach me: 
   - https://linktr.ee/mariusSA 
   - Discord: Marius S.#3342
-  - E-mail: alexwtfmarius@gmail.com
 
 <!---
 2zip/2zip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
