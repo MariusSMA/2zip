@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marius
 - 👀 I’m interested in Web Development & even beyond 🚀 
-- 🌱 I’m currently learning and improving HTML, CSS and JS
+- 🌱 Following TOP Curriculum at the moment.
 - 📫 How to reach me: 
   - https://linktr.ee/mariusSA 
   - Discord: Marius S.#3342
